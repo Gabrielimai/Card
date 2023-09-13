@@ -12,3 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻Vídeo do Projeto
 
+
+https://github.com/Gabrielimai/Card/assets/100029209/cb82c482-84bc-49b6-8695-defebc9eb144
+
+
